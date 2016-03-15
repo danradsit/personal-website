@@ -4,3 +4,10 @@ p {
 a {
   text-decoration: none;
 }
+
+#div1 {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+  background: orange;
+}
