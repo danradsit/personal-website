@@ -5,6 +5,8 @@ header {
 
 h1 {
   font-family: 'Open Sans', sans-serif;
+  margin: 15px 0;
+  font-size: 1.75em;
 }
 
 p {
