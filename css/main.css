@@ -9,6 +9,12 @@ h1 {
   font-size: 1.75em;
 }
 
+h2 {
+  font-size: 0.75em;
+  margin: -5px 0 0;
+  font-weight: normal;
+}
+
 p {
   color: black;
 }
